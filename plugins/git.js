@@ -21,9 +21,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 *bot making video* : _https://youtu.be/MPoRRTkjuW0_
 
-*owner id instagram* :https://instagram.com/__ajuz___001?utm_medium=copy_link.
+*owner id instagram* :https://instagram.com/monster_lallu_?utm_medium=copy_link.
 
-*github* : _https://github.com/aju001/Ajuser_.
+*github* : _https://github.com/Monsterlallu/BlackSir_.
 
 ■□■□■□■□■□■□■□■□■□■□
        _𝘽𝙇𝘼𝘾𝙆 𝙎𝙄𝙍_
