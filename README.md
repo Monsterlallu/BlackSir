@@ -15,7 +15,7 @@
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/Monsterlallu"><img title="MONSTER LALLU" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Monsterlallu"><img title="MONSTER LALLU" src="https://img.shields.io/badge/author-Monsterlallu?color=black&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
@@ -29,8 +29,8 @@ Project created by <a href="https://github.com/Monsterlallu">Monsterlallu</a> to
 ----
 
   <p align="center">
-  <a href="https://github.com/aju001/Ajuser_v2 ">
-    <img src="https://img.shields.io/github/repo-size/aju001/Ajuser_v2?color=red&label=Repo%20total%20size&style=flat-square">
+  <a href="https://github.com/Monsterlallu/BlackSir ">
+    <img src="https://img.shields.io/github/repo-size/Monsterlallu/BlackSir?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
 <a href="https://github.com/aju001/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
 <a href="https://github.com/aju001/Ajuser_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/Ajuser?color=grey&style=plastic"></a>
