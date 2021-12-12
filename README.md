@@ -15,11 +15,11 @@
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/aju001"><img title="aju" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Monsterlallu"><img title="MONSTER LALLU" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/aju001">aju</a> to make it public
+Project created by <a href="https://github.com/Monsterlallu">Monsterlallu</a> to make it public
     <br>
        | © |
         Reserved |
