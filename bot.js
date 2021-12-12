@@ -162,7 +162,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*AJUSER BOT WORKING AYI😜*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*BLACK SIR BOT WORKING AYI😜*', MessageType.text);
                 }
             }
             else {
@@ -184,7 +184,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*AJUSER BOT WORKING AYI😜*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*BLACK SIR BOT WORKING AYI😜*', MessageType.text);
                 }
 
             }
@@ -233,7 +233,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*AJUSER BOT WORKING AYI😜*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*BLACK SIR BOT WORKING AYI😜*', MessageType.text);
                 }
             }
         }
