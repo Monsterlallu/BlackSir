@@ -1,4 +1,4 @@
-<a href="https://github.com/aju001"><img src="https://fontmeme.com/permalink/211211/ea8aa87f9635febaa351478fc6d774dd.png" alt="google-font" border="0"></a>
+<a href="https://github.com/Monsterlallu"><img src="https://fontmeme.com/permalink/211211/ea8aa87f9635febaa351478fc6d774dd.png" alt="google-font" border="0"></a>
 <div align="center">
 
 
@@ -11,7 +11,7 @@
     
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+BlackSir+WA+Bot...;Created+by+Lallu....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
   
-<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-blue?&style=for-the-badge"></a>
+<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-BlackSir-blue?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
