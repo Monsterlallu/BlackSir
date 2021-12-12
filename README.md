@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/Y2mXdR5/ajuser.jpg""width="300" height="300"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://www.linkpicture.com/q/PicsArt_12-13-12.20.42.jpg""width="300" height="300"/>
     <p align="center">
     
     
