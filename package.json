@@ -1,14 +1,14 @@
 {
-  "name": "Ajuser",
+  "name": "BlackSir",
   "version": "7.3.6",
-  "description": "Ajuser is the Modified Version of WhatsAsena, Made By @aju with Baileys.",
-  "main": "./Ajuser/bot.js",
+  "description": "BlackSir is the Modified Version of WhatsAsena, Made By @Monsterlallu with Baileys.",
+  "main": "./BlackSir/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aju001/Ajuser"
+    "url": "git+https://github.com/Monsterlallu/BlackSir"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "aju",
-  "developer": "@aju001 / @aju001",
+  "author": "lallu",
+  "developer": "@Monsterlallu / @Monsterlallu",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/aju001/Ajuser/issues"
+    "url": "https://github.com/Monsterlallu/BlackSir/issues"
   },
-  "homepage": "https://github.com/aju001/Ajuser#readme",
+  "homepage": "https://github.com/Monsterlallu/BlackSir#readme",
   "dependencies": {
     "@lh2020/speedtest-net": "^2.1.1",
     "textmaker-thiccy": "1.2.1",
