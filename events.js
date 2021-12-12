@@ -12,7 +12,7 @@ var Commands = [];
 
 function addCommand(info, func) {
     // Basit bir fonksiyon, komut eklemek için.
-    var types = ['photo', 'image', 'text', 'message'];
+    var types = ['photo', 'image', 'text', 'messag'];
 
     var infos = {
         fromMe: info['fromMe'] === undefined ? true : info['fromMe'], // Or Sudo
