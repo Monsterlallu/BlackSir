@@ -29,7 +29,7 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*Ajuserne ivar aarum admin aakittilla sed aaki🥺!*",
+            "IM_NOT_ADMIN": "*BlackSir ine ivar aarum admin aakittilla sed aaki🥺!*",
             "BANNED": "Appol pinne engana ok bye da monu😎!",
             "GIVE_ME_USER": "*nee oru usrine thaa😊!*",
             "ADD_DESC": "Adds someone to the group.",
