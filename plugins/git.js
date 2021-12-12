@@ -26,7 +26,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 *github* : _https://github.com/aju001/Ajuser_.
 
 ■□■□■□■□■□■□■□■□■□■□
-       _𝘼𝙟𝙪𝙨𝙚𝙧 𝘽𝙤𝙩_
+       _𝘽𝙇𝘼𝘾𝙆 𝙎𝙄𝙍_
   ▣▣ created by Lallu ▣▣
 
 `}) 
