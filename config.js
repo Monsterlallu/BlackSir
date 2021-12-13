@@ -3,7 +3,7 @@
 WhatsAsena - Yusuf Usta
 */
 
-const { Sequelize } = require('sequelize');
+const { Sequelize } = require('sequeliz');
 const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
