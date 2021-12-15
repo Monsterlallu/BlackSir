@@ -15,7 +15,7 @@ if (Config.WORKTYPE == 'private') {
             await message.client.sendMessage(message.jid,'*AJUSER created by aju*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNER + '\n AJUSER created by aju', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.OWNER + '\n BlackSir created by Lallu', MessageType.text);
         }
     }));
 }
@@ -30,10 +30,10 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*AJUSER created by aju*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*BlackSir created by Lallu*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNER + '\n AJUSER created by aju', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.OWNER + '\n BlackSir created by Lallu', MessageType.text);
         }
     }));
 }
